@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PsychoPy 2023.2.2\n"
 "Report-Msgid-Bugs-To: shuonwang@gmail.com\n"
 "POT-Creation-Date: 2021-12-18 00:00+0100\n"
-"PO-Revision-Date: 2023-09-25 15:53+0800\n"
+"PO-Revision-Date: 2023-09-27 20:41-0400\n"
 "Last-Translator: Huang Xinru <hxrmiaomiaomiao@pku.edu.cn>\n"
 "Language-Team: Shun Wang <shuonwang@gmail.com>\n"
 "Language: zh_CN\n"
@@ -5586,8 +5586,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Region Of Interest: Define a region of interest for use with eyetrackers"
-msgstr ""
-"感兴趣区域(ROI)：定义感兴趣区域，与眼动仪配合使用"
+msgstr "感兴趣区域(ROI)：定义感兴趣区域，与眼动仪配合使用"
 
 #: ../experiment/components/roi/__init__.py:66
 msgid "Under what condition should this ROI end the routine?"
@@ -7293,218 +7292,220 @@ msgstr ""
 
 #: ../preferences/hints.py:135
 msgid "Display text in a floating window that describes the experiment"
-msgstr ""
+msgstr "在浮动窗口中显示描述实验的文本"
 
 #: ../preferences/hints.py:138
 msgid "choice of audio library"
-msgstr ""
+msgstr "选择音频库"
 
 #: ../preferences/hints.py:141
 msgid ""
 "latency mode for PsychToolbox audio (3 is good for most applications. See"
-msgstr ""
+msgstr "PsychToolbox音频的延迟模式（3 适合大多数应用）。请参见"
 
 #: ../preferences/hints.py:145
 msgid "audio driver to use"
-msgstr ""
+msgstr "使用的音频驱动程序"
 
 #: ../preferences/hints.py:148
 msgid "audio device to use (if audioLib allows control)"
-msgstr ""
+msgstr "要使用的音频设备（如果 audioLib 允许控制）"
 
 #: ../preferences/hints.py:151
 msgid "a list of parallel ports"
-msgstr ""
+msgstr "并行端口列表"
 
 #: ../preferences/hints.py:154
 msgid "The name of the Qmix pump configuration to use"
-msgstr ""
+msgstr "要使用的 Qmix 抽取配置名称"
 
 #: ../preferences/hints.py:157
 msgid "the http proxy for usage stats and auto-updating; format is host: port"
-msgstr ""
+msgstr "用于统计使用情况和自动更新的 http 代理；格式为 host: port"
 
 #: ../preferences/hints.py:160
 msgid ""
 "override the above proxy settings with values found in the environment (if "
 "possible)"
-msgstr ""
+msgstr "用环境中的值覆盖上述代理设置（如适用）"
 
 #: ../preferences/hints.py:164
 msgid ""
 "allow PsychoPy to send anonymous usage stats; please allow if possible, it "
 "helps PsychoPy's development"
 msgstr ""
+"允许 PsychoPy 发送匿名使用统计数据；如果适用，请允许，这有助于 PsychoPy 的开"
+"发"
 
 #: ../preferences/hints.py:167
 msgid "allow PsychoPy to check for new features and bug fixes"
-msgstr ""
+msgstr "允许 PsychoPy 检查新功能和错误修正"
 
 #: ../preferences/hints.py:170
 msgid "max time to wait for a connection response"
-msgstr ""
+msgstr "等待连接响应的最长时间"
 
 #: ../preferences/hints.py:173
 msgid "open an existing file"
-msgstr ""
+msgstr "打开现有文件"
 
 #: ../preferences/hints.py:176
 msgid "start a new experiment or script"
-msgstr ""
+msgstr "开始新的实验或脚本"
 
 #: ../preferences/hints.py:179
 msgid "save a Builder or Coder file"
-msgstr ""
+msgstr "保存Builder或Coder文件"
 
 #: ../preferences/hints.py:182
 msgid "save a Builder or Coder file under a new name"
-msgstr ""
+msgstr "以新名称保存Builder或Coder文件"
 
 #: ../preferences/hints.py:185
 msgid "Coder: print the file"
-msgstr ""
+msgstr "Coder: 打印该文件"
 
 #: ../preferences/hints.py:188
 msgid "close the Builder or Coder window"
-msgstr ""
+msgstr "关闭Builder或Coder窗口"
 
 #: ../preferences/hints.py:191
 msgid "end the application (PsychoPy)"
-msgstr ""
+msgstr "关闭软件(PsychoPy)"
 
 #: ../preferences/hints.py:194
 msgid "open the preferences dialog"
-msgstr ""
+msgstr "打开首选项对话框"
 
 #: ../preferences/hints.py:197
 msgid "export Builder experiment to HTML"
-msgstr ""
+msgstr "将Builder实验导出为 HTML"
 
 #: ../preferences/hints.py:200
 msgid "Coder: cut"
-msgstr ""
+msgstr "Coder: 剪切"
 
 #: ../preferences/hints.py:203
 msgid "Coder: copy"
-msgstr ""
+msgstr "Coder: 复制"
 
 #: ../preferences/hints.py:206
 msgid "Coder: paste"
-msgstr ""
+msgstr "Coder: 粘贴"
 
 #: ../preferences/hints.py:209
 msgid "Coder: duplicate"
-msgstr ""
+msgstr "Coder: 副本"
 
 #: ../preferences/hints.py:212
 msgid "Coder: indent code by one level (4 spaces)"
-msgstr ""
+msgstr "Coder: 缩进一级代码（4 个空格）"
 
 #: ../preferences/hints.py:215
 msgid "Coder: reduce indentation by one level (4 spaces)"
-msgstr ""
+msgstr "Coder: 缩进一级（4 个空格）"
 
 #: ../preferences/hints.py:218
 msgid "Coder: indent to fit python syntax"
-msgstr ""
+msgstr "Coder: 缩进以适应 Python 语法"
 
 #: ../preferences/hints.py:221
 msgid "Coder: find"
-msgstr ""
+msgstr "Coder: 查找"
 
 #: ../preferences/hints.py:224
 msgid "Coder: find again"
-msgstr ""
+msgstr "Coder: 再次查找"
 
 #: ../preferences/hints.py:227
 msgid "Coder: undo"
-msgstr ""
+msgstr "Coder: 撤销"
 
 #: ../preferences/hints.py:230
 msgid "Coder: redo"
-msgstr ""
+msgstr "Coder: 重做"
 
 #: ../preferences/hints.py:233
 msgid "Coder: add a # to the start of the line(s)"
-msgstr ""
+msgstr "Coder: 在行首加上 # 号"
 
 #: ../preferences/hints.py:236
 msgid "Coder: remove # from start of line(s)"
-msgstr ""
+msgstr "Coder: 删除行首的 # 号"
 
 #: ../preferences/hints.py:239
 msgid "Coder: add or remove # from start of line(s)"
-msgstr ""
+msgstr "Coder: 在行首添加或删除 # 号"
 
 #: ../preferences/hints.py:242
 msgid "Coder: fold this block of code"
-msgstr ""
+msgstr "Coder: 折叠此块码"
 
 #: ../preferences/hints.py:245
 msgid "Coder: increase font size this block of code"
-msgstr ""
+msgstr "Coder: 增大此块码的字号"
 
 #: ../preferences/hints.py:248
 msgid "Coder: decrease font size this block of code"
-msgstr ""
+msgstr "Coder: 减小此块码的字号"
 
 #: ../preferences/hints.py:251
 msgid "Coder: check for basic syntax errors"
-msgstr ""
+msgstr "Coder: 检查基本语法错误"
 
 #: ../preferences/hints.py:254
 msgid ""
 "convert a Builder .psyexp script into a python script and open it in the "
 "Coder"
-msgstr ""
+msgstr "将 Builder .psyexp 脚本转换为 python 脚本，并在 Coder 中打开它"
 
 #: ../preferences/hints.py:258
 msgid "launch a script, Builder or Coder, or run unit-tests"
-msgstr ""
+msgstr "启动脚本、Builder或Coder，或运行单元测试"
 
 #: ../preferences/hints.py:261
 msgid "attempt to interrupt and halt a running script"
-msgstr ""
+msgstr "尝试中断和停止正在运行的脚本"
 
 #: ../preferences/hints.py:264
 msgid "Coder: show / hide white-space dots"
-msgstr ""
+msgstr "Coder: 显示/隐藏空白点"
 
 #: ../preferences/hints.py:267
 msgid "Coder: show / hide end of line characters"
-msgstr ""
+msgstr "Coder: 显示/隐藏行尾字符"
 
 #: ../preferences/hints.py:270
 msgid "Coder: show / hide indentation level lines"
-msgstr ""
+msgstr "Coder: 显示/隐藏缩进水平线"
 
 #: ../preferences/hints.py:273
 msgid "Builder: create a new routine"
-msgstr ""
+msgstr "Builder: 创建新例程"
 
 #: ../preferences/hints.py:276
 msgid "Builder: copy an existing routine"
-msgstr ""
+msgstr "Builder: 复制现有例程"
 
 #: ../preferences/hints.py:279
 msgid "Builder: paste the copied routine"
-msgstr ""
+msgstr "Builder: 粘贴已复制的例程"
 
 #: ../preferences/hints.py:282
 msgid "Builder: paste the copied component"
-msgstr ""
+msgstr "Builder: 粘贴已复制的组件"
 
 #: ../preferences/hints.py:285
 msgid "Coder: show / hide the output panel"
-msgstr ""
+msgstr "Coder: 显示/隐藏输出面板"
 
 #: ../preferences/hints.py:288
 msgid "Builder: rename an existing routine"
-msgstr ""
+msgstr "Builder: 重命名现有例程"
 
 #: ../preferences/hints.py:291
 msgid "switch between windows"
-msgstr ""
+msgstr "切换窗口"
 
 #: ../preferences/hints.py:294
 msgid "increase display size in Flow"
